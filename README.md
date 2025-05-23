@@ -13,9 +13,9 @@ This FastAPI application automates the discovery, analysis, and ranking of subco
 - **Project History Analysis**: Identify relevant projects and experience
 - **Scoring and Ranking**: Rank contractors based on relevance to project needs
 
-## Setup
 
-### Prerequisites
+
+### Prerequisites:
 
 - Python 3.8+
 - Docker (optional)
