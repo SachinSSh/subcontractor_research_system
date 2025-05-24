@@ -147,4 +147,4 @@ Every returned contractor includes verifiable `evidence_url` and `evidence_text`
 
 ## License
 
-MIT
+MIT-License
