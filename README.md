@@ -20,7 +20,7 @@ This FastAPI application automates the discovery, analysis, and ranking of subco
 - Python 3.8+
 - Docker (optional)
 
-### Installation
+### Installation:
 
 1. Clone the repository:
    ```
